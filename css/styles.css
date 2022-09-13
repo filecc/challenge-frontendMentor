@@ -1,0 +1,40 @@
+
+body{
+  background: url("../images/background-image.jpg");
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+
+p{
+  padding: 20px 20px 10px 20px;
+  font-size: 12px;
+  color: hsl(212, 45%, 89%);
+}
+
+.image{
+  width: 250px;
+  margin-top: 20px;
+  border-radius: 10%;
+
+}
+
+.box{
+  background-color: white;
+  border-radius: 8%;
+  margin: 150px 40% 50px 40%;
+  box-shadow: 5px 5px 5px 5px rgba(10, 10, 10, .1);
+}
+
+h3{
+  color: hsl(218, 44%, 22%);
+
+}
+
+a{
+  text-decoration: none;
+  color: hsl(218, 44%, 22%);
+}
+
+a:hover{
+  color: orange;
+}
